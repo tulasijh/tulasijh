@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm a 1st year Data Science Major at UCI!  
+I'm a 2nd year Data Science Major at UCI!  
 
 <!--
 **tulasijh/tulasijh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

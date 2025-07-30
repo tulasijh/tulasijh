@@ -1,16 +1,35 @@
-## Hi there 👋
+Here’s a great structure for your GitHub “About Me” (README or profile bio) that reflects your background, personality, and goals:
 
-<!--
-**tulasijh/tulasijh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 Hi, I'm Tulasi Janjanam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a junior majoring in **Data Science** with a **Finance minor** at **UT Dallas**. I'm passionate about applying data to solve real-world problems, whether in finance, healthcare, or technology.
+
+🚀 Currently:
+
+* 🧠 Interning at **Tokyo Electron** as a **Data Engineering Intern**
+* 🛠️ Leading a team on **SmartScope**, a research project using AI and computer vision to detect microscopic defects in electronics
+* 🤝 Active officer in **SWE**, **AIS**, and **ACM**, organizing events, hackathons, and industry outreach
+
+📊 Skills:
+`Python` | `R` | `SQL` | `C++` | `MATLAB` | `Git` | `Pandas` | `Scikit-learn` | `Tableau` | `React (beginner)`
+
+🔍 Interests:
+
+* Quantitative finance, machine learning, and neuroscience
+* Building intuitive apps from scratch
+* Combining tech with impact — like predictive modeling for emergency rooms
+
+📈 Goals:
+
+* Land a high-impact internship or research opportunity every summer
+* Gain hands-on experience with data pipelines, modeling, and deployment
+* Long-term: work at a top-tier tech/finance company or build something of my own
+
+🌐 Let’s connect:
+[LinkedIn](https://www.linkedin.com/in/tulasi-janjanam123/) | [GitHub](https://github.com/tulasijh)
+
+---
+
+Want this as a `README.md` for your GitHub profile? I can generate the markdown file. Just let me know if you'd like any part to be more fun, serious, or tailored.

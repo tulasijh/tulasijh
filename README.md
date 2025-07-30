@@ -25,4 +25,4 @@ I'm a junior majoring in **Data Science** with a **Finance minor** at **UT Dalla
 * Long-term: work at a top-tier tech/finance company or build something of my own
 
 🌐 Let’s connect:
-[LinkedIn](https://www.linkedin.com/in/tulasi-janjanam123/) | [GitHub](https://github.com/tulasijh)
+[LinkedIn](https://www.linkedin.com/in/tulasi-janjanam123/) | [GitHub](https://github.com/tulasijh) | [Email](tulasijh@gmail.com)
